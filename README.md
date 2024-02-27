@@ -1,16 +1,6 @@
-# product_category_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/Bishozit/Product_Category_App/assets/110930138/1b0c74cc-d331-4203-8316-888ff771d50c)
+![2](https://github.com/Bishozit/Product_Category_App/assets/110930138/98176027-6c57-44b3-a108-400f4c8fb871)
+![3](https://github.com/Bishozit/Product_Category_App/assets/110930138/84cb6cd0-7f81-4b31-859a-1e55f9593bb5)
+![4](https://github.com/Bishozit/Product_Category_App/assets/110930138/83e61d63-c2df-4109-88b6-1b7d400ba73c)
+![5](https://github.com/Bishozit/Product_Category_App/assets/110930138/d7acc567-c2ec-4762-9b38-e832582a754f)
