@@ -1,3 +1,4 @@
+* Using provider.
 
 ![1](https://github.com/Bishozit/Product_Category_App/assets/110930138/1b0c74cc-d331-4203-8316-888ff771d50c)
 ![2](https://github.com/Bishozit/Product_Category_App/assets/110930138/98176027-6c57-44b3-a108-400f4c8fb871)
