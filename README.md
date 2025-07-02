@@ -1,5 +1,5 @@
 * The application utilizes the Provider state management pattern to manage the state of the selected category, ensuring that data displayed in the product screen corresponds to the chosen category.
-* The selected category's state is maintained, reflecting the active button.
+* The selected category's state is maintained, reflecting the active button. 
 * The initial product displayed is the first item received from the API.    
 
 
